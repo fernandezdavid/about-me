@@ -5,8 +5,7 @@ title: My Toptal Cover Letter
 
 # My Toptal Cover Letter
 
-*This blog post is an application supplement based on [Toptal](https://www.toptal.com/platform/talent/application_info/edit#admission_post=1) recommendation. I went through the pages of Toptal Technical Product Managers like [
-Andreas Rabenseifner](https://www.toptal.com/product-managers/resume/andreas-rabenseifner).*
+*This blog post is an application supplement based on [Toptal](https://www.toptal.com/platform/talent/application_info/edit#admission_post=1) recommendation for [Technical Product Managers](https://www.toptal.com/product-managers/technical-product-managers).*
 
 I'm David Fernandez and I live in Cordoba, Argentina. I have a bachelor degree in Software Engineering from UTN University. I started to freelance and work on side projects long before getting my degree. One of them got very popular with more than 12MM monthly active users. I was a local Netflix called [Cuevana](https://es.wikipedia.org/wiki/Cuevana).
 

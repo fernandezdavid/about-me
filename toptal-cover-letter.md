@@ -1,11 +1,12 @@
 ---
 layout: post
-title: About Me
+title: My Toptal Cover Letter
 ---
 
-# About Me
+# My Toptal Cover Letter
 
-![](assets/images/profile_sur.jpg "Me in Patagonia, Argentina.")
+*This blog post is an application supplement based on [Toptal](https://www.toptal.com/platform/talent/application_info/edit#admission_post=1) recommendation. I went through the pages of Toptal Technical Product Managers like [
+Andreas Rabenseifner](https://www.toptal.com/product-managers/resume/andreas-rabenseifner).*
 
 I'm David Fernandez and I live in Cordoba, Argentina. I have a bachelor degree in Software Engineering from UTN University. I started to freelance and work on side projects long before getting my degree. One of them got very popular with more than 12MM monthly active users. I was a local Netflix called [Cuevana](https://es.wikipedia.org/wiki/Cuevana).
 
@@ -35,8 +36,8 @@ When I'm not working, I love to learn or practice a new skill usually through si
 
 Furthermore, I love to invest time in self-improvement of mind and body. I’m a big fan of building systems and habits for personal growth. From working out and doing mobility routines to reading, listening (podcast or music) and meditation. Discipline and consistency are essential to me.
 
-I can honestly say that I didn't have a clue about how to do many of the things I've done so far. I'm always stretching myself. That's who I am. 
+I can honestly say that I didn't have a clue about how to do many of the things I've done so far. I'm always stretching myself. That's who I am.
 
-**If there’s only one thing you should remember about me is that I can pick up anything and get the job done.**
+**If there’s only one thing you should remember about me is that I can pick up anything and get the job done**.
 
 [Go back](./)

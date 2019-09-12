@@ -33,7 +33,7 @@ I can honestly say that I didn't have a clue about how to do many of the things 
 
 **If there’s only one thing you should remember about me is that I can pick up anything and get the job done**.
 
-<div class="center">
+<div class="tw-wrapper">
 	<br>
 	<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thanks for including my tip 💪🏼 <a href="https://twitter.com/hnshah?ref_src=twsrc%5Etfw">@hnshah</a> <a href="https://t.co/xwBFhM1AiX">https://t.co/xwBFhM1AiX</a></p>&mdash; David Fernández (@fernandezdavid7) <a href="https://twitter.com/fernandezdavid7/status/1161284910033903616?ref_src=twsrc%5Etfw">August 13, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 	<br>

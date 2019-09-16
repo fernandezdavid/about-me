@@ -7,7 +7,7 @@ I got into Product Management after realizing that customers care about their pr
 
 During my time as a student, I joined a small startup called [Olapic](https://olapic.com) as a software engineer. My role evolved to building and leading *Data Infrastructure*, *Business Intelligence*, and *Analytics Product* teams from the ground up. Many of the responsibilities of a Product Manager were in my plate before fully transition to the role, including the strategic direction and tactical delivery of these teams. 
 
-From day one, I’ve been responsible for every product decision around data. As an early employee, I've been fortunate to be part of incredible growth and a successful acquisition.
+From day one, I’ve been responsible for every product decision around data. As an early employee, I've been fortunate to be part of incredible growth and a successful [acquisition](https://techcrunch.com/2016/07/21/monotype-acquires-olapic/).
 
 As a Product Manager, I owned and launched several products. Some of them more client-facing like dashboard redesigns, tailored reporting, and enterprise support. Others more technical like integration, global support features, and major infrastructure improvements.
 

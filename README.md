@@ -1,9 +1,9 @@
 
 ## Hi there,
 
-I'm currently working on [Readsmart](https://readsmart.co) and [The Product Index](https://theproductindex.com). Before that, started my own startup with former colleagues in the logistics industry.
+I'm currently working on [Readsmart](https://readsmart.co) and [The Product Index](https://theproductindex.com). Before that, started my startup with former colleagues in the logistics industry.
 
-I got into Product Management after realizing that customers care about their problems, not the solution. That's when my mind shifted to a *product mindset*. I really enjoy understanding exactly what their needs are.
+I got into Product Management after realizing that customers care about their problems, not the solution. That's when my mind shifted to a *product mindset*. I enjoy understanding exactly what their needs are.
 
 During my time as a student, I joined a small startup called [Olapic](https://olapic.com) as a software engineer. My role evolved to building and leading *Data Infrastructure*, *Business Intelligence*, and *Analytics Product* teams from the ground up. Many of the responsibilities of a Product Manager were in my plate before fully transition to the role, including the strategic direction and tactical delivery of these teams. 
 

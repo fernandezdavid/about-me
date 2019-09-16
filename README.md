@@ -13,4 +13,4 @@ As a Product Manager, I owned and launched several products. Some of them more c
 
 Outside work, I love to invest time in self-improvement. Physically, by working-out and doing mobility routines. Mentally, by reading [books](https://www.goodreads.com/user/show/74645368-david-fern-ndez), listening to [podcasts/music](spotify:user:fernandezdavid7), and practicing meditation. I'm also into the practice of [commonplacing](https://medium.com/read-smart/why-you-should-consider-a-digital-commonplace-book-dd8748215ccb).
 
-I’m a big fan of building systems and habits for personal growth. Discipline and consistency are essential [values](/values.md) for me.
+I’m a big fan of building systems and habits for personal growth. Discipline and consistency are essential [values](values) for me.

@@ -1,5 +1,5 @@
 
-## Hi there,
+## Hi there!
 
 I'm currently working as *Lead Product Manager* at [Yerbo](https://yerbo.co), a startup behind the [burnoutindex.org](https://burnoutindex.org), looking to humanize relationships at work to raise people's happiness. 
 

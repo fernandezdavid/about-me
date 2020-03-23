@@ -9,4 +9,4 @@ During my time at the university, I joined a small startup called [Olapic](https
 
 When I’m not doing the above, I love building systems to become a better human being. From weightlifting and mobility routines to reading [books](https://www.goodreads.com/user/show/74645368-david-fern-ndez), listening to [podcasts/music](spotify:user:fernandezdavid7), and practicing meditation. I've been practicing the art of [*commonplacing*](https://medium.com/read-smart/why-you-should-consider-a-digital-commonplace-book-dd8748215ccb) too.
 
-*Determination* and *Discipline* are essential [values](values.md) for me. If there’s one thing you should remember about me is that **I can pick up anything and get the job done**.
+*Curiosity, Determination, and Discipline* are essential values for me. If there’s one thing you should remember about me is that **I can pick up anything and get the job done**.

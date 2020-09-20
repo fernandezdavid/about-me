@@ -11,7 +11,7 @@ During my time at the university, I joined a small startup called [Olapic](https
 
 In these fast-paced and *multi-hat-wearing* environments is where I thrive.
 
-When I’m not doing the above, I build systems to become a better human being. I train my body and mind, from weightlifting and mobility routines to reading [books](https://www.goodreads.com/user/show/74645368-david-fern-ndez), listening to [podcasts/music](spotify:user:fernandezdavid7), and practicing meditation. I'm also into the art of [*commonplacing*](https://medium.com/read-smart/why-you-should-consider-a-digital-commonplace-book-dd8748215ccb) and building a second brain using [Roam](https://roamresearch.com/).
+When I’m not doing the above, I build systems to become a better human being. I train my body and mind, from weightlifting and mobility routines to reading [books](https://www.goodreads.com/user/show/74645368-david-fern-ndez), listening to [podcasts/music](spotify:user:fernandezdavid7), and practicing meditation. I'm also into the art of [commonplacing](https://medium.com/read-smart/why-you-should-consider-a-digital-commonplace-book-dd8748215ccb) and building a second brain using [Roam](https://roamresearch.com/).
 
 If there’s one thing you should remember about me is that **I can pick up anything and get the job done**.
 
